@@ -9,7 +9,7 @@ window.onbeforeunload = () => {
 /*-----------------Typed--------------*/
 
 var typed = new Typed('.auto-Type', {
-  strings: ['Web Developer', 'Ui/Ux Designer','App Developer','Youtuber'],
+  strings: ['Web Developer','App Developer','Programmer'],
   typeSpeed: 150,
   backSpeed: 150,
   loop: true
